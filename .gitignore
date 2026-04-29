@@ -1,0 +1,20 @@
+# Godot 4
+.godot/
+import/
+*.translation
+*.uid
+
+# Editor
+*.godot~
+*.~*
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
